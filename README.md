@@ -4,8 +4,7 @@ This is a simple game of TicTacToe used to showcase the MiniMax algorithm. The g
 ## How to Run
 1.) Download the code and open it with Python 3.10
 
-2.) Choose either X's or O's to be your shape.
-  -(Note that X's always go first)
+2.) Choose either X's or O's to be your shape. (Note that X's always go first)
 
 3.) Play your moves trying to get three in a row.
 
