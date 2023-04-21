@@ -21,10 +21,6 @@ def player_chosen():
 
 
 def end_game(result):
-    score = 0
-    if result != "Draw":
-        score = 1
-    print()
     clear()
     penup()
     draw_end_screen(result)
