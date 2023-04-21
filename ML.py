@@ -57,6 +57,7 @@ def init():
 
 
 def turtle_init():
+    bgcolor("#FFFFFF")
     hideturtle()
     speed('fastest')
     penup()
